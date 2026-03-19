@@ -33,7 +33,7 @@ links:
   # Gallery:
   # RSS:
   # AliPay:
-  ZhiHu: https://www.zhihu.com/people/sirice
+  # ZhiHu: https://www.zhihu.com/people/sirice
   # LinkedIn:
   # FaceBook:
   # Twitter:
@@ -43,13 +43,13 @@ links:
   # Sketch:
   # Gitlab:
   # Dribbble:
-  Instagram:
-  Reddit:
+  # Instagram:
+  # Reddit:
   # YouTube:
   # QQ:
   # Weibo:
   # WeChat:
-  Github: https://github.com/Siricee
+  # Github: https://github.com/Siricee
 
 # how links show: you have 2 choice--text or icon.
 links_text_enable: false
@@ -66,11 +66,11 @@ post_category_enable: true
 post_copyright_enable: true
 
 post_copyright_author_enable: true
-post_copyright_permalink_enable: true
-post_copyright_license_enable: true
-post_copyright_license_text: Copyright (c) 2019 <a href="http://creativecommons.org/licenses/by-nc/4.0/">CC-BY-NC-4.0</a> LICENSE
+# post_copyright_permalink_enable: true
+# post_copyright_license_enable: true
+# post_copyright_license_text: Copyright (c) 2026 <a href="http://creativecommons.org/licenses/by-nc/4.0/">CC-BY-NC-4.0</a> LICENSE
 post_copyright_slogan_enable: true
-post_copyright_slogan_text: Do you believe in <strong>DESTINY</strong>?
+post_copyright_slogan_text: <strong>Enter through the NARROW GATE</strong>,because small is the gate and narrow the road that leads to life,only found by few
 ## toc
 post_toc_enable: true
 
