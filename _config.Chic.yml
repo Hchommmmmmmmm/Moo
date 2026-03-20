@@ -24,32 +24,32 @@ avatar: /image/avatar.jpeg
 ## Unused key can be commented out.
 links:
   Blog: /archives
-  # Category:
-  # Tags: 
-  # Link:
-  # Resume:
-  # Publish:
-  # Trophy:
-  # Gallery:
-  # RSS:
-  # AliPay:
-  # ZhiHu: 
-  # LinkedIn:
-  # FaceBook:
-  # Twitter:
-  # Skype:
-  # CodeSandBox:
-  # CodePen:
-  # Sketch:
-  # Gitlab:
-  # Dribbble:
-  # Instagram:
-  # Reddit:
-  # YouTube:
-  # QQ:
-  # Weibo:
-  # WeChat:
-  # Github: 
+# Category:
+# Tags: 
+# Link:
+# Resume:
+# Publish:
+# Trophy:
+# Gallery:
+# RSS:
+# AliPay:
+# ZhiHu: 
+# LinkedIn:
+# FaceBook:
+# Twitter:
+# Skype:
+# CodeSandBox:
+# CodePen:
+# Sketch:
+# Gitlab:
+# Dribbble:
+# Instagram:
+# Reddit:
+# YouTube:
+# QQ:
+# Weibo:
+# WeChat:
+# Github: 
 
 # how links show: you have 2 choice--text or icon.
 links_text_enable: false
@@ -64,7 +64,6 @@ post_date_enable: true
 post_category_enable: true
 ## Post copyright
 post_copyright_enable: true
-
 post_copyright_author_enable: true
 post_copyright_permalink_enable: false
 post_copyright_license_enable: false
